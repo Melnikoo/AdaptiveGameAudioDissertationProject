@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{6bee9023-6e4a-48d7-9f91-55eec6b8509b}">
+		<property name="name">
+			<value>Enemies</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d6c92e52-17b9-42f4-8fa1-ce9b13d827e9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2cbd599c-1ed9-4cb2-a677-b69793fd1dfe}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2cbd599c-1ed9-4cb2-a677-b69793fd1dfe}">
+		<property name="maximum">
+			<value>10</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{7a3213c6-3f9a-4d5e-ac0b-2d7bdcf63a06}">
+		<property name="assetPath">
+			<value>HorizontalAssets/Loop7VeryHeavy1.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.893061224489795</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{66f94bbf-c3b2-48b8-a24a-37ed9a566251}</destination>
+		</relationship>
+	</object>
+</objects>

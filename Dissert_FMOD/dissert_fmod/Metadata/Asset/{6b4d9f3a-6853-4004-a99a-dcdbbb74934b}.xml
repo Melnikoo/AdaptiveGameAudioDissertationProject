@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{6b4d9f3a-6853-4004-a99a-dcdbbb74934b}">
+		<property name="assetPath">
+			<value>HorizontalAssets/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{66f94bbf-c3b2-48b8-a24a-37ed9a566251}</destination>
+		</relationship>
+	</object>
+</objects>

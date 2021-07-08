@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{e03fe364-8c42-46ac-864d-a5f84e41fcc9}">
+		<property name="assetPath">
+			<value>VerticalAssets/drumfill.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.2386394557823133</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{66f94bbf-c3b2-48b8-a24a-37ed9a566251}</destination>
+		</relationship>
+	</object>
+</objects>
